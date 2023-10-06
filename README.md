@@ -31,7 +31,7 @@ Given the sentence **lightly fried fish are delicious**, the program may return 
 
 # Resources to use
 
-The client trains for his Scrabble matches using the 58000 word list here: <http://www.mieliestronk.com/corncob_lowercase.txt>. The solution should therefore use this same word list to generate the new sentences.
+The client trains for his Scrabble matches using the 370000 word list here: <https://github.com/dwyl/english-words/blob/master/words_alpha.txt>. The solution should therefore use this same word list to generate the new sentences.
 
 
 <a id="org6109c0f"></a>
